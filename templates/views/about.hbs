@@ -1,21 +1,17 @@
 <!DOCTYPE html>
 
 <html>
-
-<head>
+  <head>
     <title>About</title>
     <link rel="icon" href="/img/weather.png">
     <link rel="stylesheet" href="/css/styles.css">
-</head>
-
-<body>
+  </head>
+  <body>
     <div class="main-content">
-        {{>header}}
-        <p>This site was created by Andrew Mead. It uses data from mapbox.com and darksky.net!</p>
-        <img class="portrait" src="/img/me.png">
+      {{>header}}
+      <img class="portrait" src="/img/happyLlama.png" alt="avatar">
+      <p>{{ name }}</p>
     </div>
-    
     {{>footer}}
-</body>
-
+  </body>
 </html>
