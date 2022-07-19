@@ -24,7 +24,7 @@ const forecast = (address, callback) => {
         temperature +
         " degrees out. There is a " +
         precip +
-        "% chance of rain. Humidity is " +
+        "% chance of rain. The humidity is " +
         humidity + "%.";
 
       callback(undefined, forecast);
