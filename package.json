@@ -19,11 +19,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewjmead/node3-weather-website.git"
+    "url": "git+https://github.com/rascalowa/node-course-udemy.git"
   },
   "bugs": {
-    "url": "https://github.com/andrewjmead/node3-weather-website/issues"
+    "url": "https://github.com/rascalowa/node-course-udemy/issues"
   },
-  "homepage": "https://github.com/andrewjmead/node3-weather-website#readme",
+  "homepage": "https://github.com/rascalowa/node-course-udemy#readme",
   "description": ""
 }
